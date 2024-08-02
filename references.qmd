@@ -1,0 +1,30 @@
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# REFERÊNCIAS {.unnumbered}
+
+R DEVELOPMENT CORE TEAM. R4.3: A language and Enviornment for Statistical Computing,2021.https://cran.r-project.org/bin/windows/base. 
+
+RSTUDIO. Rstudio: Integrated Development Environment for R(versão 1.4.1).https://rstudio.com/products/rstudio/download/#download. 
+
+
+WORLD HEALTH ORGANIZATION. Data System: a Road Safety Manual for Decision-Makers an Pratctitioners. Management of Noncommunicable Diseases, Disability, Violence and Injury Prevention (NVI), Geneva: Switzerland, 2010. 
+
+WORLD HEALTH ORGANIZATION. Global Status Report on Road Safety 2018. Management of Noncommunicable Diseases, Disability, Violence and Injury Prevention (NVI), Geneva: Switzerland, 2018.
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

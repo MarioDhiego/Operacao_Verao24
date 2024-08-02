@@ -1,0 +1,20 @@
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# APRESENTAÇÃO {.unnumbered}
+
+
+A Coordenadoria de Educação de Trânsito - CED do DETRAN/PA, por meio da Diretoria Técnica Operacional (DTO), desenvolverá a **OPERAÇÃO VERÃO 2024**, integrada aos órgãos da Secretaria de Estado de Segurança Pública e Defesa Social, no período de 01/07 a 30/07/2024, no município de Salinópolis -- PA.
+
+A operação está prevista na **Lei N°10.260**, de 11 dezembro de 2023, chamado de **Plano Plurianual-PPA 2024-2027** do DETRAN/PA e possui relação direta com as ações da Secretaria de Estado de Segurança Pública e Defesa Social -- SEGUP, pois requer atuação integrada dos diversos agentes ligados à segurança pública na articulação com as ações para a segurança viária.
+
+|       Lei nº 10.260        |          Anexo I           |
+|:--------------------------:|:--------------------------:|
+| ![](ppa2.jpg){width="107"} | ![](ppa3.jpg){width="108"} |

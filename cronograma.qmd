@@ -1,0 +1,111 @@
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# CRONOGRAMA
+## Semana 1
+
+| DATA           | LOCAL                        | ATIVIDADE                                | HORÁRIO   |
+|----------------|----------------------|-------------------|----------------|
+| 08/07/24 (Seg) | Detran/Sede                  | Desclocamento                            | 14h       |
+| 09/07/24 (Ter) | Salinópolis                  | Visita in Locu                           | 9h        |
+| 10/07/24 (Qua) | Casa Apoio/Salinópolis       | Reunião Alinhamento                      | A definir |
+| 10/07/24 (Qua) | Rádio Litoral FM/Salinópolis | Apresentar Op. Verão                     | A definir |
+| 11/07/24 (Qui) | Mercado Central              | Abordagem Educativa: Motociclista        | 9h        |
+| 11/07/24 (Qui) | Líder/Salinópolis            | Abordagem Educativa: Ciclista/Pedestre   | 16h       |
+| 12/07/24 (Sex) | PA-124                       | Abordagem Educativa: Condutores          | 16h       |
+| 12/07/24 (Sex) | Nova Orla/ Maçarico          | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+| 13/07/24 (Sáb) | PA-444                       | Pré-Lei Seca                             | 9h        |
+| 13/07/24 (Sáb) | Praia do Atalaia             | Abordagens Educativas: Barracas          | 9h        |
+| 13/07/24 (Sáb) | Praia do Atalaia             | Transitando na Praia: Etilômetro         | A definir |
+| 13/07/24 (Sáb) | Nova Orla/Maçarico           | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+| 14/07/24 (Dom) | PA-444                       | Pré-Lei Seca                             | 9h        |
+| 14/07/24 (Dom) | Praia do Atalaia             | Abordagens Educativas: Barracas          | 9h        |
+| 14/07/24 (Dom) | Praia do Atalaia             | Transitando na Praia: Etilômetro         | A definir |
+| 14/07/24 (Dom) | Nova Orla/Maçarico           | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Semana 2
+
+| DATA           | LOCAL               | ATIVIDADE                                | HORÁRIO   |
+|----------------|----------------------|---------------------|----------------|
+| 17/07/24 (Qua) | Terminal Rodoviário | Abordagem Educativa: Condutores          | 9h        |
+| 18/07/24 (Qui) | Nova Orla/ Maçarico | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+| 19/07/24 (Sex) | PA-124              | Abordagem Educativa: Condutores          | 16h       |
+| 19/07/24 (Sex) | Nova Orla/Maçarico  | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+| 20/07/24 (Sáb) | PA-444              | Pré-Lei Seca                             | 9h        |
+| 20/07/24 (Sáb) | Praia do Atalaia    | Abordagens Educativas: Barracas          | 9h        |
+| 20/07/24 (Sáb) | Praia do Atalaia    | Transitando na Praia: Etilômetro         | a definir |
+| 20/07/24 (Sáb) | Nova Orla/Maçarico  | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+| 21/07/24 (Dom) | PA-444              | Pré-Lei Seca                             | 9h        |
+| 21/07/24 (Dom) | Praia do Farol      | Abordagens Educativas: Barracas          | 9h        |
+| 21/07/24 (Dom) | Praia do Atalaia    | Transitando na Praia: Etilômetro         | A definir |
+| 21/07/24 (Dom) | Nova Orla/Maçarico  | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+## Semana 3
+
+| DATA           | LOCAL               | ATIVIDADE                                | HORÁRIO   |
+|----------------|---------------------|---------------------                     |-----------|
+| 24/07/24 (Qua) | Maçarico/Bosquinho  | Abordagem Educativa: Condutores          | 9h        |
+| 25/07/24 (Qui) | Nova Orla/ Maçarico | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+| 26/07/24 (Sex) | PA-124              | Abordagem Educativa: Condutores          | 16h       |
+| 26/07/24 (Sex) | Nova Orla/Maçarico  | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+| 27/07/24 (Sáb) | PA-444              | Pré-Lei Seca                             | 9h        |
+| 27/07/24 (Sáb) | Praia do Atalaia    | Abordagens Educativas: Barracas          | 9h        |
+| 27/07/24 (Sáb) | Praia do Atalaia    | Transitando na Praia: Etilômetro         | a definir |
+| 27/07/24 (Sáb) | Nova Orla/Maçarico  | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+| 28/07/24 (Dom) | PA-444              | Pré-Lei Seca                             | 9h        |
+| 28/07/24 (Dom) | Praia do Farol      | Abordagens Educativas: Barracas          | 9h        |
+| 28/07/24 (Dom) | Praia do Atalaia    | Transitando na Praia: Etilômetro         | A definir |
+| 28/07/24 (Dom) | Nova Orla/Maçarico  | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+## Semana 4
+
+| DATA           | LOCAL               | ATIVIDADE                                | HORÁRIO   |
+|----------------|---------------------|---------------------                     |-----------|
+| 31/07/24 (Qua) | Maçarico/Bosquinho  | Abordagem Educativa: Condutores          | 9h        |
+| 01/08/24 (Qui) | Nova Orla/ Maçarico | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+| 02/08/24 (Sex) | PA-124              | Abordagem Educativa: Condutores          | 16h       |
+| 02/08/24 (Sex) | Nova Orla/Maçarico  | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+| 03/08/24 (Sáb) | PA-444              | Pré-Lei Seca                             | 9h        |
+| 03/08/24 (Sáb) | Praia do Atalaia    | Abordagens Educativas: Barracas          | 9h        |
+| 03/08/24 (Sáb) | Praia do Atalaia    | Transitando na Praia: Etilômetro         | a definir |
+| 03/08/24 (Sáb) | Nova Orla/Maçarico  | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+| 03/08/24 (Dom) | PA-444              | Pré-Lei Seca                             | 9h        |
+| 04/08/24 (Dom) | Praia do Farol      | Abordagens Educativas: Barracas          | 9h        |
+| 04/08/24 (Dom) | Praia do Atalaia    | Transitando na Praia: Etilômetro         | A definir |
+| 04/08/24 (Dom) | Nova Orla/Maçarico  | Atividades Lúdicas: Crianças/Adolescente | 18h       |
+| 05/08/24 (Seg) | Casa Apoio          | Organização dos Materiais na Van         | 9h        |
+| 06/08/24 (Ter) | Detran/Sede         | Deslocamento Final da Equipe             | 8h        |
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

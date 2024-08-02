@@ -1,0 +1,128 @@
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# MATERIAL E MÉTODOS
+## Previsão Legal
+
+A campanha atende o direito ao um trânsito seguro enquanto dever dos Órgãos de Trânsito, contida no Código de Trânsito Brasileiro no no seu Art. 1º:
+
+-   § 2º O trânsito, em condições seguras, é um direito de todos e dever dos órgãos e entidades componentes do Sistema Nacional de Trânsito, a estes cabendo, no âmbito das respectivas competências, adotar as medidas destinadas a assegurar esse direito.
+
+-   § 5º Os órgãos e entidades de trânsito pertencentes ao Sistema Nacional de Trânsito darão prioridade em suas ações à defesa da vida, nela incluída a preservação da saúde e do meio ambiente.
+
+No Art. 74 são reforçadas essas orientações para as ações educativas onde a Lei menciona que "A educação para o trânsito é direito de todos e constitui dever prioritário para os componentes do Sistema Nacional de Trânsito". No Art. 75 é enfatizado sobre a execução das campanhas no período das férias escolares:
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Metas
+
+Realizar diversas modalidades de atividades educativas voltadas à prevenção dos acidentes de trânsito, que alcancem em média 15.000 pessoas, de acordo com as estratégias definidas pela DTO/CED/GIEDUC, ao custo de R\$140.054,20 com diárias de pessoal, no período de 01/07 a 30/07/2024.
+
+O DETRAN/PA realizará ações educativas de acordo com as orientações do Governo do Estado no que se refere às questões de preservação ao meio ambiente, observando as medidas de prevenção requeridas durante as ações, principalmente, nos locais com grande fluxo de pessoas no período de veraneio.
+
+As ações educativas preventivas serão realizadas em consonância com as orientações e apoio da Coordenadoria de Operações e Fiscalização de Trânsito, por meio de um trabalho voltado à orientação de condutores e passageiros, a fim de prevenir sinistros de trânsito.
+
+Durante a Operação Verão 2024 estão previstas abordagens educativas com o foco nos principais fatores de riscos, orientando quanto a necessidade de manter todos os cuidados, a fim de reduzir os índices de sinistros, além de prevenir os comportamentos de riscos no trânsito
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Objetivos Geral
+
+Durante a Operação Verão serão realizadas atividades educativas priorizando o desenvolvimento de ações em defesa da abordagem de sistemas seguros integrados, em consonância à Década de Ação pela Segurança no Trânsito 2021 -- 2031, através de comunicação sobre os comportamentos que mais contribuem para as lesões e mortes nas vias.
+
+O foco das mensagens será nos fatores de riscos ÁLCOOL x DIREÇÃO, além dos fatores associados (ULTRAPASSAGENS EM LOCAIS PROIBIDOS / DESRESPEITO AOS PEDESTRES E AOS CICLISTAS), direção sob o efeito de álcool, cansaço do motorista, direção distraída, o não uso do cinto de segurança, sistemas de retenção para crianças e capacetes, enfatizando nas mensagens sobre as relações existentes entre os fatores de risco e os eventos de trânsito.
+
+As atividades de abordagem nas rodovias estaduais será com o suporte dos Agentes de Fiscalização do DETRAN/PA e parceiros da Segurança Pública (PRE, PM, Agentes do Município etc.), visando MORTE ZERO neste período, feito alcançado em 2023.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Estratégias
+
+### Estragégias Para Maior Abrangência
+
+-   Realizar ações educativas em vias da cidade com grande fluxo de veículos e pessoas (proximidades do Terminal Rodoviário, Mercado Central, Supermercados etc);
+-   Realizar abordagens educativas de condutores na PA - 124 (Boas-vindas e orientações iniciais);
+-   Realizar abordagens educativas de condutores na PA - 444 (Pré-Lei Seca);
+-   Realizar abordagens educativas com veranistas na faixa de areia (Atalaia e Farol Velho);
+-   Realizar ações educativas na Nova Orla do Maçarico (ações lúdicas).
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+### Estragégias Para Cumprimento de Atividades
+
+-   Articular com as instituições e órgãos da Segurança Pública envolvidos para ações conjuntas;
+-   Atuar, de maneira integrada, com as Secretarias de Governo de acordo com as determinações da Diretoria Geral do DETRAN e Diretoria Técnica Operacional (DG e DTO);
+-   Realizar as ações educativas de modo articulado com as ações de fiscalização, bem como seguindo as orientações repassadas pelo Coordenador da Operação, Coordenadora de Educação e do Diretor Técnico Operacional.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+### Estragégias de Atuação das Equipes
+
+-   Os servidores atuarão em equipes de trabalho, que serão definidas em função das atividades programadas; − As atividades e os horários de trabalho serão definidos no cronogramas das atividades da semana; − A jornada de trabalho será de, no máximo, 06 (seis) horas diárias, podendo ocorrer de forma ininterrupta ou fracionada, a depender da dinâmica de circulação de veículos e pessoas no município ou por conta de outra necessidade;\
+    − O planejamento das ações é flexível, assim as equipes devem estar preparadas para mudanças pontuais, a fim de atender demandas externas que surgirem.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+### Estragégias de Apoio Social/ASDECOM
+
+-   Cobrir as ações e divulgar nas mídias sociais do DETRAN PA e Governo;
+-   Viabilizar a cobertura das ações pelos meios de comunicação (TV e Rádio);
+-   Agendar a realização de entrevistas nas Rádios FM do município;
+-   Comunicação do fator de risco BEBIDA X DIREÇÃO: utilizar a orla das praias para afixar cavaletes ou banner publicitários para comunicar a mensagem de segurança.
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+## Avaliação da Operação
+
+Durante o período de Operação será feito uma avaliação técnica acerca do contexto e da dinâmica das atividades desenvolvidas. Será levado em consideração os seguintes itens:
+
+
+### Aspectos Quantitativos
+
+-   Cumprimento das Metas Estabelecidas (ações realizadas, número de condutores, passageiros, ciclistas e pedestres); 
+-   Cumprimento das Técnicas de Abordagens;
+-   Cumprimento dos Turnos de Trabalho;
+
+### Aspectos Qualitativos
+
+-   Coleta de Dados durante as Abordagens Educativas;
+-   Materiais Educativos entregues;
+-   Registro dos feedbacks das Pessoas Abordadas.
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

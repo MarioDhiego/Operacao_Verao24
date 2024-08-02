@@ -1,0 +1,47 @@
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# EQUIPE TÉCNICA
+## Portaria Nº 2482
+
+A Diretora Administrativa e Financeira do Departamento de Trânsito do Estado do Pará(DETRAN/PA), usando das atribuições que lhe foram delegadas pela Portaria nº 3057/2020/DG/CGP.
+
+Conceder, de acordo com o decreto 3.792 de 22.03.2024, 29 e ¹/² (vinte e nove e meia) diárias, no valor de R$ 308,84, referente ao deslocamento do Município de Belém para a cidade de Salinópolis no período de de 08/07 à 06/08/2024, a fim de realizar ações educativas em parceria com Òrgãos Municipais de e Estaduais, seguindo o que rege os artigos 74 e 75 do CTB, além da Resolução nº 100 do CONTRAN, durante a Operação Verão 2024.  
+
+
+|             NOME                   |   CARGO    | MATRÍCULA   |      CPF       |
+|  :-------------------------------- |:----------:|:-----------:|:--------------:|
+| Afonso Raimundo Bentes Macedo      |  Aux. OP   | 57196717-1  | 409.884.142-87 |
+| Camila Augusta Serra Furtado       | Assistente | 80845519-1  | 805.700.202-63 |
+| César Augusto Diniz Mayrink        | Assistente | 80845521-1  | 067.112.966-05 |
+| Cláudio Pereira da Silva           |  Aux. OP   | 57189942-1  | 294.411.702-59 |
+| Hellem Tayla da Silva Moura        | Assistente | 80845554-1  | 630.405.652-49 |
+| João Batista Maia Melo             |  Aux. OP   | 80845609-1  | 683.894.692-00 |
+| Jorge Luis Costa Magno             |  Aux. OP   | 57195022-2  | 237.468.822-49 |
+| José Raimundo Borges Costa         |  Aux. OP   | 51196677-1  | 081.988.962-87 |
+| Maria do Socorro Teixeira da Silva | Assistente |  30040-1    | 120.770.112-20 |
+| Marília Botelho Jaime Pernambuco   | Assistente | 55588512-1  | 851.737.462-20 |
+| Mário Diego Rocha Valente          |  Analista  | 57195478-1  | 675.883.102-78 |
+| Mario Herculano Silva Cordeiro     |  Aux. OP   | 3262413-1   | 108.604.012-00 |
+| Rosa Maria da Silva Bohadana       | Secretária | 5953242-1   | 410.949.992-53 |
+| Tayenne Brito Conde                |  Gerente   | 5920358-3   | 530.407.672-91 |
+| Carlos Magno Trindade Ferradais    |  Aux. OP   | 57188923-1  | 489.476-282-04 |
+| Gleydson José Miranda da Paixão    |  Analista  | 54192298-2  | 639.827-062-20 |
+| Reginaldo Jofre Guimarães          | Motorista  | 3221695-1   | 063.559.602-44 |
+| Marco Antônio Silva da Silva       | Motorista  | 57206791-2  | 175.599.102-97 |
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

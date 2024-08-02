@@ -1,0 +1,61 @@
+# Preâmbulo Geral
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "**OPERAÇÃO VERÃO DETRAN-PA 2024**"
+  subtitle: "**MUNICÍPIO: Salinópolis**"
+  date: "07/09/2024"
+  author:
+  - name: "**DIRETOR OPERACIONAL: José Bento Gouvêa**"
+  - name: "**COORDENADOR EDUCAÇÃO: Isabella Mesquita**"
+  - name: "**GERENTE: Celina Koury**"
+    corresponding: true
+    search: true
+
+  page-footer:
+    left: |
+      Copyright: (VALENTE et. al, 2024)
+    right: |
+      Construído <a href="https://quarto.org/">Pacote Quarto no R4.3</a>.
+
+  cover-image: Governo_Para.png
+  favicon: Governo_Para.png
+  twitter-card: true
+  repo-url : https://github.com/MarioDhiego/Operacao_Verao_Salinopolis_2024
+  repo-branch: main
+  repo-actions: [edit, issue]
+  downloads: [pdf, docx]
+  sharing: [twitter, facebook, linkedin]
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - portaria.qmd
+    - intro.qmd
+    - cap2.qmd
+    - cronograma.qmd
+    - resultados1.qmd
+    - references.qmd
+comments:
+  hypothesis: true
+bibliography: references.bib
+highlight-style: pygments
+format:
+  html:
+    theme:
+      light: [blue,custom.scss]
+      dark:  [cyborg,custom.scss]
+    code-fold: true
+    code-tools: true
+    code-link: true
+    toc-location: right
+    toc-title: SUMÁRIO
+    toc-depth: 5
+    toc-expand: true
+
+
+
+
+
+
