@@ -1,18 +1,17 @@
-
 ```{=html}
 <style>
   body{text-align: justify}
 </style>
 ```
-
-
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
 :::
 
 # RESULTADOS
+
 ## SEMANA I
+
 ### Reuniões de Alinhamento
 
 Iniciando a Operação Verão 2024 no dia 08 de julho de 2024, durante a primeira semana, foram realizados varias reuniões de alinhamento no município de Salinópolis. Teve início com apresentação da proposta de trabalho ao Gerente geral da Ciretran, Senhor Edicarlos Lima.
@@ -36,6 +35,7 @@ No período da tarde, foi realizado a divulgação do Passeio Ciclístico, na R�
 :::
 
 ### Atividades I
+
 #### Entrega de Kits
 
 Na véspera do Passeio ciclístico, foi realizado a entrega dos kits, na barraca da educação situada na Avenida Beira Mar, Nova Orla do Município de Salinópolis.
@@ -102,8 +102,11 @@ Foi realizado um passeio ciclístico de 15 kilômetros no Município de Salinóp
 | Nº Total da Equipes      |     35     |
 | Nº Total de Ciclistas    |    356     |
 
-Contou com a parceria de 12 entidades entre governo, universidade e Ongs. Durante o percursso participaram cerca de 356 ciclistas.
+|                            |
+|:--------------------------:|
+| ![](passeio_ciclismo1.mp4) |
 
+Contou com a parceria de 12 entidades entre governo, universidade e Ongs. Durante o percursso participaram cerca de 356 ciclistas.
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
@@ -190,7 +193,9 @@ Posteriormente, a criança é encaminhada ao Mini circuito controlado com carrin
 | ![](Circuito_minicarros/fig8_minicarros.jpg){width="336" height="220"} | ![](Circuito_minicarros/fig9_minicarros.jpg){width="336" height="220"} |
 | ![](Circuito_minicarros/fig7_minicarros.jpg){width="336" height="220"} | ![](Circuito_minicarros/fig4_minicarros.jpg){width="336" height="220"} |
 
-
+|                        |
+|:----------------------:|
+| ![](Mini_Circuito.mp4) |
 
 **Tabela 05: Dia 13/07/2024(Sábado/18:00)**
 
@@ -326,8 +331,6 @@ Na Rodovia PA-444 sentido Crescente a Praia do Atalaia, ocorreu o **Choque Educa
 |:----------------------------------:|:----------------------------------:|
 | ![](PA-124/dia20/fig1_PA124.jpg){width="360" height="310"} | ![](PA-124/dia20/fig4_PA124.jpg){width="360" height="310"} |
 | ![](PA-124/dia20/fig5_PA124.jpg){width="360" height="310"} | ![](PA-124/dia20/fig3_PA124.jpg){width="360" height="310"} |
-
-
 
 **Tabela 10: Dia 19/07/2024(Sexta/09:00)**
 
@@ -622,8 +625,6 @@ Foi desenvolvido um trabalho de Organização do fluxo veicular no binário que 
 | ![](dia24_minicarros/fig3_minicarros.jpg) | ![](dia24_minicarros/fig1_minicarros.jpg) |
 | ![](dia24_minicarros/fig2_minicarros.jpg) | ![](dia24_minicarros/fig4_minicarros.jpg) |
 
-
-
 **Tabela 23: Dia 24/07/2024(Quarta/18:00)**
 
 | Métricas                 | Quantidade |
@@ -792,13 +793,13 @@ Foi desenvolvido um trabalho de Organização do fluxo veicular no binário que 
 
 | Métricas                 | Quantidade |
 |--------------------------|------------|
-| Nº de Equipe: CED/DTO    |            |
-| Nº Mini Carros Usados    |            |
-| Nº de Crianças Atendidas |            |
-| Nº de Mulheres Atendidas |            |
-| Nº de Homens Atendidos   |            |
-| Nº de Kits entregues     |            |
-| Nº de Pessoas Atendidas  |            |
+| Nº de Equipe: CED/DTO    |    07      |
+| Nº Mini Carros Usados    |    04      |
+| Nº de Crianças Atendidas |    45      |
+| Nº de Mulheres Atendidas |    32      |
+| Nº de Homens Atendidos   |    13      |
+| Nº de Kits entregues     |    40      |
+| Nº de Pessoas Atendidas  |    90      |
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
@@ -811,22 +812,22 @@ Foi desenvolvido um trabalho de Organização do fluxo veicular no binário que 
 
 | Métricas                                | Quantidade |
 |-----------------------------------------|:----------:|
-| Nº de Pessoas em Trabalho               |            |
-| Nº de Mini-Carros (Circuito Pedagógico) |            |
-| Nº de Vans Utilizadas                   |            |
-| Nº de Automóvel Utilizado               |            |
-| Nº de kits (Lixo Car/Flanela) Entregues |            |
-| Nº de Kits (Jogo Aprendiz) Entregues    |            |
-| Nº de Veículos Abordados                |            |
-| Nº de Automóvel                         |            |
-| Nº de Motocicleta                       |            |
-| Nº de Condutores Orientados             |            |
-| Nº de Condutores (Homens)               |            |
-| Nº de Condutores (Mulheres)             |            |
-| Nº de Passageiros Orientados            |            |
-| Nº de Fatores de Risco Observados       |            |
-| Nº Total de Crianças Atendidas          |            |
-| Nº Total de Pessoas Atendidas           |            |
+| Nº de Pessoas em Trabalho               |   15       |
+| Nº de Mini-Carros (Circuito Pedagógico) |   06       |
+| Nº de Vans Utilizadas                   |   02       |
+| Nº de Automóvel Utilizado               |   01       |
+| Nº de kits (Lixo Car/Flanela) Entregues |  3.625     |
+| Nº de Kits (Jogo Aprendiz) Entregues    |  1.894     |
+| Nº de Veículos Abordados                |  1.491     |
+| Nº de Automóvel                         |  1.399     |
+| Nº de Motocicleta                       |    192     |
+| Nº de Condutores Orientados             |  1.491     |
+| Nº de Condutores (Homens)               |  1.114     |
+| Nº de Condutores (Mulheres)             |    347     |
+| Nº de Passageiros Orientados            |  6.373     |
+| Nº de Fatores de Risco Observados       |    551     |
+| Nº Total de Crianças Atendidas          |  1.671     |
+| Nº Total de Pessoas Atendidas           |  7.864     |
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
